@@ -45,6 +45,18 @@
 💡 If you’re working on projects at the intersection of AI and healthcare, I’d love to connect and contribute.
 
 
+## 📫 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arwa-basal-647121215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:arwa.basal04@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 
 
 
