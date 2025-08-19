@@ -4,10 +4,9 @@
 
 ## Interests
 
-- 💻 Deep Learning 
-- 🩻CNNs in medical imaging
-- 🔍 Data Science
-
+- 💻 Deep Learning & Neural Networks
+- 🩻 Computer vision in medical imaging
+- 🔍 Healthcare Data Analysis
 
 ## Current Projects
 
