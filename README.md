@@ -1,5 +1,11 @@
 # Hey there!
+<p align="center">
+  <a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md">
+    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="StandWithPalestine"/>
+  </a>
+</p>
 
+  
 - ✨I'm Arwa, a Biomedical Engineer passionate about applying ML & AI to healthcare.
 
 ## Interests
