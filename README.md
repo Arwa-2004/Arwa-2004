@@ -6,7 +6,7 @@
 </p>
 
   
-- ✨I'm Arwa, a Biomedical Engineer passionate about applying ML & AI to healthcare.
+- ✨I'm Arwa Basal, a Biomedical Engineer passionate about applying ML & AI to healthcare.
 
 ## Interests
 
