@@ -47,16 +47,7 @@
 
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arwa-2004&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1" alt="GitHub Contributions" />
-</p>
-
-
-
-
-🌍 Happy to collaborate, share ideas, and contribute to impactful open-source work.
 
 💡 If you’re working on projects at the intersection of AI and healthcare, I’d love to connect and contribute.
 
