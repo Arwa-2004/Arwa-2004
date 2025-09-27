@@ -21,26 +21,20 @@
 
 ## Tech Stack  
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40" height="40" alt="Python" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f975c4fd-9121-4a1e-b4f1-d42bd951bda8" />
 
-<img width="40" height="40" alt="png-transparent-numpy-hd-logo-thumbnail" src="https://github.com/user-attachments/assets/5d0d7378-936e-4e6b-baff-7444e88f011b" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e2c735cd-a08d-4ce7-bd4c-f03dd1cc9584" />
+
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5959e0cc-cb82-4664-bcc7-ff7516802c8c" />
+
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d71f8eeb-7a93-4e27-94a9-9cad70d9671b" />
+
+ <img width="40" height="40" alt="349-3490136_anaconda-icon-anaconda-python-icon" src="https://github.com/user-attachments/assets/6d7d5a67-0427-4435-929c-4612b53f42b1" />
+
+ <img width="50" height="50" alt="pytorch-logo" src="https://github.com/user-attachments/assets/3f8915fe-62e4-46ed-9e1f-0de709bce5b5" />
 
 
-<img width="40" height="40" alt="images" src="https://github.com/user-attachments/assets/d4b13d77-93c7-45a3-ab3f-538cbcafc82b" />
 
-  <img width="40" height="40" alt="images" src="https://github.com/user-attachments/assets/23ceaecb-c4d9-485e-8f48-d1157bc40e9d" />
-
-  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/keras/keras.png" width="40" height="40" alt="Keras" />
-
-  <img width="40" height="40" alt="images" src="https://github.com/user-attachments/assets/8f63a1c1-bc44-48a7-bada-7ffb9f227be5" />
-  
-<img width="68" height="68" alt="208-2081341_scikit-learn-logo-png-transparent-png" src="https://github.com/user-attachments/assets/356abd12-1658-4f09-863a-35e6af4ec7ec" />
-
-  <img width="40" height="40" alt="pytorch-logo" src="https://github.com/user-attachments/assets/3f8915fe-62e4-46ed-9e1f-0de709bce5b5" />
-
-  <img width="40" height="40" alt="349-3490136_anaconda-icon-anaconda-python-icon" src="https://github.com/user-attachments/assets/6d7d5a67-0427-4435-929c-4612b53f42b1" />
   
 
 
