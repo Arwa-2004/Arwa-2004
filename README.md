@@ -43,7 +43,6 @@
 
 
 
-💡 If you’re working on projects at the intersection of AI and healthcare, I’d love to connect and contribute.
 
 
 ## 📫 Socials
